@@ -1,4 +1,7 @@
 ### Hi there 👋
+🎓 KMU College student
+🚗 Deparment of Automotive Engineering 
+🌱 I’m currently learning Robotics/Autonomous/AI
 
 <!--
 **AUTO-KKYU/AUTO-KKYU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
