@@ -1,8 +1,6 @@
 ### Hi there 👋
-🎓 KMU College student
-
-🚗 Deparment of Automotive Engineering 
-
+🎓 KMU College student <br/> 
+🚗 Deparment of Automotive Engineering <br/> 
 🌱 I’m currently learning Robotics/Autonomous/AI
 
 <!--
