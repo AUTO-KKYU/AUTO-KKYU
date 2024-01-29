@@ -15,6 +15,17 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white"> <img src="https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"> 
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+### How to upload file or folder on github 
+- 업로드 할 폴더의 상위폴더로 이동 
+1. git init
+2. git status
+3. git add -A
+4. git commit -m "커밋 메시지"
+5. git remote add origin "원격 저장소 주소"
+6. git remote -v
+7. git push origin master
+8. 
 <!--
 **AUTO-KKYU/AUTO-KKYU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
