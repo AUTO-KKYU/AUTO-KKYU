@@ -16,6 +16,8 @@
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
+<div align="left"> 
+ 
 ### How to upload file or folder on github 
 - 업로드 할 폴더의 상위폴더로 이동 
 1. git init
