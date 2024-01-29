@@ -27,7 +27,8 @@
 5. git remote add origin "원격 저장소 주소"
 6. git remote -v
 7. git push origin master
-8. 
+
+   
 <!--
 **AUTO-KKYU/AUTO-KKYU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
