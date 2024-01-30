@@ -28,6 +28,14 @@
 6. git remote -v
 7. git push origin master
 
+## VS Code & git 변경내용 commit -> push
+1. Visual Studio Code 소스 제어 탭으로 이동
+2. 변경 사항 탭의 커밋할 파일을 + 버튼을 눌러 staging
+3. message창에 commit message를 입력한 후 commit을 클릭
+4. 좌측 하단 push button 클릭
+5. 확인 클릭시 push complete
+   
+
    
 <!--
 **AUTO-KKYU/AUTO-KKYU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
