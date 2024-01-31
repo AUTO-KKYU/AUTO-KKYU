@@ -22,7 +22,7 @@
 - 업로드 할 폴더의 상위폴더로 이동 
 1. git init
 2. git status
-3. git add -A
+3. git add -A (add .)
 4. git commit -m "커밋 메시지"
 5. git remote add origin "원격 저장소 주소"
 6. git remote -v
