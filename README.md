@@ -15,31 +15,6 @@
   </a>
 </p>
 
-
-<h2 align="center">Tasks Ahead</h2>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="left"> 🟩 <strong>Global Capstone Design with Bellevue College</strong> (2025. 01. 08 ~ 01. 24)</td>
-  </tr>
-  <tr>
-    <td align="left"> 🟩 <strong>Capstone Design in College of Automotive Convergence</strong></td>
-  </tr>
-  <tr>
-    <td align="left"> 🟩 <strong>Achieve:</strong> Immersive Media Global Innovator MD</td>
-  </tr>
-  <tr>
-    <td align="left"> 🟩 <strong>Achieve:</strong> Smart Car ICT MD</td>
-  </tr>
-  <tr>
-    <td align="left"> 🟩 <strong>Achieve:</strong> Future Automotive MD</td>
-  </tr>
-</table>
-
-</div>
-
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
  
